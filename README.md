@@ -1,5 +1,5 @@
 
-# Mars Rover Kata 🚀
+# Mars Rover (Bootcamp) 🚀
 
 Este proyecto es una implementación en Java del clásico ejercicio "Mars Rover Kata", utilizado como práctica de lógica, orientación y testing. Forma parte de la entrega final del bootcamp de Java Backend.
 
@@ -11,11 +11,14 @@ El ejercicio original puede consultarse aquí: [Mars Rover Kata](https://kata-lo
 
 ## Tecnologías
 
-- Java 17
+- Java 
 - Maven
 - JUnit 5
 - (Opcional) Cucumber
 - Git / GitHub
+- CSS (basico)
+- JavaScript
+- HTML
 
 ## Instalación y ejecución
 
