@@ -34,19 +34,6 @@ git clone https://github.com/maidanano/MarsRoverBootcamp.git
 
 4. Podés ingresar comandos como `LMLMLMLMM` para mover el rover.
 
-## Ejemplo de uso
-
-Input inicial:
-```
-Mapa: 5x5
-Posición inicial: 1 2 N
-Comandos: LMLMLMLMM
-```
-
-Resultado esperado:
-```
-Posición final: 1 3 N
-```
 
 ## Testing
 
