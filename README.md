@@ -32,7 +32,7 @@ git clone https://github.com/maidanano/MarsRoverBootcamp.git
 
 3. Ejecutá el método `main()` desde `RoverController` o el archivo principal del proyecto.
 
-4. Podés ingresar comandos como `LMLMLMLMM` para mover el rover. ----(No funcionando aún)---
+4. Podés ingresar comandos como `LFFRFFFLB` para mover el rover. ----(No funcionando aún)---
 
 
 ## Testing
