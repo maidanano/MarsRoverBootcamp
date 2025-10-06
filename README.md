@@ -14,7 +14,7 @@ El ejercicio original puede consultarse aquí: [Mars Rover Kata](https://kata-lo
 - Java 
 - Maven
 - JUnit 5
-- (Opcional) Cucumber
+- Cucumber
 - Git / GitHub
 - CSS (basico)
 - JavaScript
